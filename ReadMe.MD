@@ -2,7 +2,6 @@
 
 ## Title
 
-Scale and Load Balance Your Architecture
 ### NAME : KALPANAA BABU TM
 ### REG NO :21224230112
 
